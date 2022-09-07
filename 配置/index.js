@@ -22,7 +22,7 @@ export const config = {
    *    // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
    *    id: "oUPhc5rcKaeKlc42f0FvKCZTCnps",
    *    // 你想对他发送的模板消息的模板ID
-   *    useTemplateId: "b3APWaBjWRF3ebj9PZDv2lNcAIwUs1WPoE1zzTMWvfk",
+   *    useTemplateId: "AhBR2-8_KyWWV8WV_h6ZdhiJXG_pgWm2cg2QPcTWjWQ",
    *    // 他点击详情后跳转的页面,你可以设置成微博的热榜，也可以设置成其他，网址一定要填对；不填对也没关系，随便你，会打不开而已。
    *    openUrl: "https://wangxinleo.cn"
    *   }, 
@@ -31,7 +31,7 @@ export const config = {
   USERS: [
     {
       // 想要发送的人的名字
-      name: ",
+      name: "",
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "",
       // 你想对他发送的模板消息的模板ID
